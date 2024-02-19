@@ -1,6 +1,6 @@
 function StartBtn(){
     return(
-            <button className="w-20 h-12">Start</button>
+            <button className="w-32 h-16 bg-green-600 border-green-200 text-lg cursor-pointer">Start</button>
         );
 };
 
